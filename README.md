@@ -22,11 +22,14 @@
 ### Web Development Stack:
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/><img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
 <br/>
-<br/>
+
 ### My Workspace Specification:
 <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+<br/>
+
 ### Tools and IDE I Use:
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/spyder-ide-5.png" alt="spyder-ide-5"/> <img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/>
+<br/>
 <br/>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-khaliq-H&bg_color=000000&color=fffde5&line=ffdd00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
